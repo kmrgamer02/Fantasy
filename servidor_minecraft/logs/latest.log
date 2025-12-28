@@ -1,0 +1,146 @@
+[28Dec2025 00:01:28.931] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[28Dec2025 00:09:10.068] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1624, y=-42, z=347}
+[28Dec2025 00:09:10.068] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1624, y=-42, z=346}
+[28Dec2025 00:09:10.069] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1624, y=-42, z=347}
+[28Dec2025 00:09:10.069] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1624, y=-42, z=346}
+[28Dec2025 00:09:10.369] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1630, y=-20, z=304}
+[28Dec2025 00:09:10.369] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1630, y=-20, z=304}
+[28Dec2025 00:09:10.416] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1630, y=-21, z=303}
+[28Dec2025 00:09:10.416] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1630, y=-21, z=303}
+[28Dec2025 00:09:10.416] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1629, y=-25, z=291}
+[28Dec2025 00:09:10.417] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1629, y=-25, z=291}
+[28Dec2025 00:09:15.139] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1630, y=-21, z=303}
+[28Dec2025 00:09:15.139] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1629, y=-25, z=291}
+[28Dec2025 00:09:15.140] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1630, y=-20, z=304}
+[28Dec2025 00:09:15.142] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1624, y=-42, z=347}
+[28Dec2025 00:09:15.142] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1624, y=-42, z=346}
+[28Dec2025 00:09:55.084] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[28Dec2025 00:12:38.335] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[28Dec2025 00:12:56.013] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1670, y=-56, z=391}
+[28Dec2025 00:12:56.014] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1670, y=-56, z=391}
+[28Dec2025 00:12:56.052] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1671, y=21, z=410}
+[28Dec2025 00:12:56.052] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1670, y=22, z=410}
+[28Dec2025 00:12:56.052] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1671, y=21, z=410}
+[28Dec2025 00:12:56.052] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1670, y=22, z=410}
+[28Dec2025 00:12:56.052] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1668, y=21, z=403}
+[28Dec2025 00:12:56.052] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1668, y=21, z=401}
+[28Dec2025 00:12:56.052] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1669, y=21, z=401}
+[28Dec2025 00:12:56.053] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1668, y=21, z=403}
+[28Dec2025 00:12:56.053] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1668, y=21, z=401}
+[28Dec2025 00:12:56.053] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1669, y=21, z=401}
+[28Dec2025 00:13:06.246] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1670, y=-56, z=391}
+[28Dec2025 00:13:06.247] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1670, y=22, z=410}
+[28Dec2025 00:13:06.247] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1669, y=21, z=401}
+[28Dec2025 00:13:06.247] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1668, y=21, z=401}
+[28Dec2025 00:13:06.247] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1668, y=21, z=403}
+[28Dec2025 00:13:06.247] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1671, y=21, z=410}
+[28Dec2025 00:13:20.014] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1717, y=-4, z=284}
+[28Dec2025 00:13:20.014] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1717, y=-4, z=284}
+[28Dec2025 00:13:21.504] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1731, y=-29, z=460}
+[28Dec2025 00:13:21.505] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1731, y=-29, z=460}
+[28Dec2025 00:13:23.298] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1717, y=-4, z=284}
+[28Dec2025 00:13:30.416] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1756, y=-29, z=415}
+[28Dec2025 00:13:30.416] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1757, y=-29, z=415}
+[28Dec2025 00:13:30.417] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1756, y=-29, z=415}
+[28Dec2025 00:13:30.417] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1757, y=-29, z=415}
+[28Dec2025 00:13:31.589] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1731, y=-29, z=460}
+[28Dec2025 00:14:04.140] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1756, y=-29, z=415}
+[28Dec2025 00:14:04.141] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1757, y=-29, z=415}
+[28Dec2025 00:14:04.570] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1772, y=-4, z=305}
+[28Dec2025 00:14:04.571] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1773, y=-4, z=307}
+[28Dec2025 00:14:04.571] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1773, y=-3, z=306}
+[28Dec2025 00:14:04.571] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1772, y=-4, z=305}
+[28Dec2025 00:14:04.571] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1773, y=-4, z=307}
+[28Dec2025 00:14:04.571] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1773, y=-3, z=306}
+[28Dec2025 00:14:35.832] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[28Dec2025 00:14:56.357] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1773, y=-4, z=307}
+[28Dec2025 00:14:56.357] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1772, y=-4, z=305}
+[28Dec2025 00:14:56.357] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1773, y=-3, z=306}
+[28Dec2025 00:18:50.752] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[28Dec2025 00:20:56.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natthaniel777 has made the advancement [Intruder Alert]
+[28Dec2025 00:21:33.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has made the advancement [Intruder Alert]
+[28Dec2025 00:22:27.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has made the advancement [Tactical Fishing]
+[28Dec2025 00:23:31.856] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1486, y=-33, z=1004}
+[28Dec2025 00:23:59.182] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[28Dec2025 00:29:41.557] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/109253, l='ServerLevel[world]', x=1875.72, y=66.00, z=1348.63] died, message: 'Unemployed suffocated in a wall'
+[28Dec2025 00:30:11.302] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1942, y=-35, z=1127}
+[28Dec2025 00:30:11.302] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1942, y=-35, z=1129}
+[28Dec2025 00:30:14.159] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1933, y=-1, z=1309}
+[28Dec2025 00:30:14.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has made the advancement [Sea? Not a Problem]
+[28Dec2025 00:30:53.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has made the advancement [My Name is Nobody]
+[28Dec2025 00:31:35.294] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/109196, l='ServerLevel[world]', x=1859.93, y=65.50, z=1379.73] died, message: 'Unemployed suffocated in a wall'
+[28Dec2025 00:33:19.001] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/108942, l='ServerLevel[world]', x=1813.85, y=65.50, z=1411.74] died, message: 'Unemployed was slain by Drowned'
+[28Dec2025 00:34:40.843] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1976, y=-54, z=1633}
+[28Dec2025 00:34:40.843] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1976, y=-54, z=1633}
+[28Dec2025 00:34:43.887] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1976, y=-54, z=1633}
+[28Dec2025 00:35:30.538] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1971, y=15, z=1651}
+[28Dec2025 00:35:36.257] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1909, y=-46, z=1703}
+[28Dec2025 00:35:36.257] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1908, y=-46, z=1704}
+[28Dec2025 00:35:36.257] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1909, y=-46, z=1703}
+[28Dec2025 00:35:36.258] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1908, y=-46, z=1704}
+[28Dec2025 00:36:07.641] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1909, y=-46, z=1703}
+[28Dec2025 00:36:07.641] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1908, y=-46, z=1704}
+[28Dec2025 00:36:23.981] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[28Dec2025 00:37:27.119] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1853, y=-32, z=1743}
+[28Dec2025 00:37:27.119] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1854, y=-32, z=1742}
+[28Dec2025 00:37:27.120] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1853, y=-32, z=1743}
+[28Dec2025 00:37:27.120] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1854, y=-32, z=1742}
+[28Dec2025 00:37:27.475] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1922, y=-54, z=1728}
+[28Dec2025 00:37:27.476] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1922, y=-54, z=1728}
+[28Dec2025 00:37:38.096] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1897, y=-4, z=1753}
+[28Dec2025 00:37:38.096] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1896, y=-4, z=1753}
+[28Dec2025 00:37:38.096] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1897, y=-4, z=1753}
+[28Dec2025 00:37:38.096] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1896, y=-4, z=1753}
+[28Dec2025 00:37:38.447] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1853, y=-32, z=1743}
+[28Dec2025 00:37:38.447] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1854, y=-32, z=1742}
+[28Dec2025 00:37:38.793] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1922, y=-54, z=1728}
+[28Dec2025 00:37:44.461] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1880, y=-4, z=1763}
+[28Dec2025 00:37:44.461] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1879, y=-3, z=1764}
+[28Dec2025 00:37:44.461] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1880, y=-4, z=1763}
+[28Dec2025 00:37:44.461] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1879, y=-3, z=1764}
+[28Dec2025 00:37:44.944] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1896, y=-4, z=1753}
+[28Dec2025 00:37:44.944] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1897, y=-4, z=1753}
+[28Dec2025 00:38:03.043] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1880, y=-4, z=1763}
+[28Dec2025 00:38:03.043] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1879, y=-3, z=1764}
+[28Dec2025 00:49:15.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zhair16 has made the advancement [What a Deal!]
+[28Dec2025 00:55:01.232] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[28Dec2025 00:55:19.783] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[28Dec2025 00:57:04.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zhair16 has made the advancement [False Water]
+[28Dec2025 01:08:01.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natthaniel777 has reached the goal [From Ancient Times...]
+[28Dec2025 01:11:13.281] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[28Dec2025 01:21:01.431] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[28Dec2025 01:27:38.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natthaniel777 burned to death
+[28Dec2025 01:28:22.685] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[28Dec2025 01:28:23.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku burned to death
+[28Dec2025 01:28:38.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natthaniel777 was slain by Fire Dragon
+[28Dec2025 01:36:41.848] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2120ms or 42 ticks behind
+[28Dec2025 01:44:28.333] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[28Dec2025 01:47:05.742] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zhair16 lost connection: Disconnected
+[28Dec2025 01:47:05.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zhair16 left the game
+[28Dec2025 01:56:47.639] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KMRgamerotaku lost connection: Disconnected
+[28Dec2025 01:56:47.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku left the game
+[28Dec2025 02:16:29.229] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[28Dec2025 02:20:49.891] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: natthaniel777 lost connection: Disconnected
+[28Dec2025 02:20:49.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natthaniel777 left the game
+[28Dec2025 02:21:55.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[28Dec2025 02:21:55.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[28Dec2025 02:21:55.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[28Dec2025 02:21:55.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[28Dec2025 02:21:55.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[28Dec2025 02:21:55.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[28Dec2025 02:21:55.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_abyss
+[28Dec2025 02:21:55.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[28Dec2025 02:21:55.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[28Dec2025 02:21:55.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[28Dec2025 02:21:55.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_mirror_realm
+[28Dec2025 02:21:55.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[28Dec2025 02:21:55.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[28Dec2025 02:21:55.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_abyss): All chunks are saved
+[28Dec2025 02:21:55.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[28Dec2025 02:21:55.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[28Dec2025 02:21:55.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28Dec2025 02:21:55.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_mirror_realm): All chunks are saved
+[28Dec2025 02:21:55.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[28Dec2025 02:21:56.183] [Server thread/INFO] [Framework/]: Unloading server configs...
+[28Dec2025 02:21:56.190] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[28Dec2025 02:21:56.192] [Server thread/INFO] [Framework/]: Finished unloading server configs
